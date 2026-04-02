@@ -1,0 +1,19 @@
+﻿{
+    "ci":  [
+               0.799,
+               0.954
+           ],
+    "disease":  "Pancreatic Cancer",
+    "patent":  "US 63/942,422",
+    "tier":  "GOLD",
+    "sensitivity":  0.85,
+    "pipeline":  "BPF v1.0.0",
+    "patients":  183,
+    "event_rate":  0.52,
+    "cohort":  "TCGA Pancreatic Cancer (PAAD)",
+    "phase":  "Phase 1",
+    "events":  95,
+    "specificity":  0.84,
+    "seed":  42,
+    "auc":  0.8561
+}
